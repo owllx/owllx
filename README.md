@@ -133,7 +133,7 @@ Pet-проекты в портфолио ████████░░░░░
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/owllx/owllx/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d contributions" width="90%" />
+<img src="https://raw.githubusercontent.com/owllx/owllx/main/profile-3d-contrib/profile-night-view.svg" alt="3d contributions" width="90%" />
 
 </div>
 
