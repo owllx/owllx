@@ -67,31 +67,6 @@
 
 <br/>
 
-## 📚 Сейчас в работе
-
-```text
-Python (основы + ООП)   ████████████████░░░░   80%
-Telegram-боты (aiogram) ████████████░░░░░░░░   60%
-Работа с API и парсинг  ██████████░░░░░░░░░░   50%
-Базы данных (SQL)       ██████░░░░░░░░░░░░░░   30%
-Pet-проекты в портфолио ████████░░░░░░░░░░░░   40%
-```
-
-<details>
-<summary><b>🎯 Планы на ближайшее время</b></summary>
-
-<br/>
-
-- [ ] Собрать портфолио из 3–5 завершённых проектов автоматизации
-- [ ] Выложить первый полноценный Telegram-бот с документацией
-- [ ] Разобраться с FastAPI и сделать небольшое API
-- [ ] Научиться деплоить проекты (Docker + VPS)
-- [ ] Взять первый оплачиваемый заказ на фрилансе
-
-</details>
-
-<br/>
-
 ## 📈 Статистика
 
 <div align="center">
@@ -124,16 +99,6 @@ Pet-проекты в портфолио ████████░░░░░
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/owllx/owllx/output/snake.svg" />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/owllx/owllx/output/snake.svg" />
 </picture>
-
-</div>
-
-<br/>
-
-## 🧊 Мой год в 3D
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/owllx/owllx/main/profile-3d-contrib/profile-night-view.svg" alt="3d contributions" width="90%" />
 
 </div>
 
