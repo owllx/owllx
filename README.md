@@ -120,9 +120,9 @@ Pet-проекты в портфолио ████████░░░░░
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/owllx/owlx/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/owllx/owlx/output/snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/owllx/owlx/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/owllx/owllx/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/owllx/owllx/output/snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/owllx/owllx/output/snake.svg" />
 </picture>
 
 </div>
@@ -133,7 +133,7 @@ Pet-проекты в портфолио ████████░░░░░
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/owllx/owlx/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d contributions" width="90%" />
+<img src="https://raw.githubusercontent.com/owllx/owllx/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d contributions" width="90%" />
 
 </div>
 
